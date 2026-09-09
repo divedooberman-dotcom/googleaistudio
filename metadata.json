@@ -1,0 +1,8 @@
+{
+  "name": "Semantic Document Search",
+  "description": "A secure full-stack document repository featuring advanced semantic search, side-by-side keyword comparison, and AI-powered retrieval-augmented generation (RAG) powered by Gemini embeddings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
